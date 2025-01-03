@@ -1,1 +1,3 @@
 # Matplotlib-Challenge
+
+- Two dataframes were combined to calculate measurements used to create statistics tables and plot charts.  Summary statistics were calculated both individually and using the aggregation method. Identical bar charts and pie charts were made using both the pandas and pyplot methods. Quartiles and outliers were calculated and used to make a box plot comparing four of the different drug regimens. After calculating the correlation to find the r value, a scatter plot was made as well as another scatter plot showing linear regression. A detailed analysis is included at the beginning of the ipynb file.
